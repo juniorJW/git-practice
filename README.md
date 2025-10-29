@@ -1,6 +1,8 @@
-
 # 우테코 8기 프리코스 3주차 과제 - 로또 게임
 ![Generic badge](https://img.shields.io/badge/precource-week3-green.svg)
+![Generic badge](https://img.shields.io/badge/test-0_pass-blue.svg)
+![Generic badge](https://img.shields.io/badge/version-1.0.1-brightgreen.svg)
+
 
 ---
 'Git'을 사용해 보세요!
