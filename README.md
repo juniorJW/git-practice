@@ -1,5 +1,5 @@
 # 우테코 8기 프리코스 3주차 미션 - 로또 게임
-<p style="text-align: center">
+<p align=center>
   <img src="https://github.com/user-attachments/assets/8ea2104b-2e3c-4333-9f69-d641057ca8e0" width="400px">
   <img src= "https://github.com/user-attachments/assets/de5853f8-2604-4dcf-b07d-b8f393445435" width="400">
 </p>
@@ -11,6 +11,7 @@
 ![Generic badge](https://img.shields.io/badge/version-1.0.1-brightgreen.svg)
 
 ---
+
 
 
 ---
