@@ -1,8 +1,7 @@
-# Git 연습 프로젝트입니다.
 
-**안녕**하세요!
----
-![Generic badge](https://img.shields.io/badge/level1-week1-green.svg)
+# 우테코 8기 프리코스 3주차 과제 - 로또 게임
+![Generic badge](https://img.shields.io/badge/precource-week3-green.svg)
+
 ---
 'Git'을 사용해 보세요!
 ```
